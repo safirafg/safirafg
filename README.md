@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Olá, eu sou a Safira 👋 pt-BR
 ### Hi, I'm Safira 👋 en-US
 - 😄 Pronomes: ela/dela
+- 😄 Pronouns: she/her
 </a>
 
 <!-- LINE -->
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/safirafg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safirafg&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img alt="safira" height="180" width="360" style="border-radius:50px;" src="">
+  <!--<img alt="safira" height="180" width="360" style="border-radius:50px;" src=""> -->
 </div></a>
 
 ##
@@ -80,7 +81,7 @@ Here are some ideas to get you started:
 <div> 
  
  
-  ![Snake animation](https://github.com/leandrowilliams/safirafg/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/safirafg/safirafg/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 </a>
