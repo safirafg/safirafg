@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 <!-- -->
 
 
-### Olá, eu sou a Safira 👋 pt-BR
-### Hi, I'm Safira 👋 en-US
+### Olá, eu sou a Safira 👋
 - 😄 Pronomes: ela/dela
-- 😄 Pronouns: she/her
 </a>
 
 <!-- LINE -->
