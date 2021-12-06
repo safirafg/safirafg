@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <!-- GIF -->
 <a href="https://github.com/safirafg">
 <div>
-<img style="margin:50px;" align="right" alt="leandrowilliams-oTodoPoderoso-gif" height="200" style="border-radius:50px;" src="">
+<!-- <img style="margin:50px;" align="right" alt="safirafg-oTodoPoderoso-gif" height="200" style="border-radius:50px;" src=""> -->
 </div>
   </a>
   
