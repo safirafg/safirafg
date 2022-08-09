@@ -85,7 +85,7 @@ Here are some ideas to get you started:
  
 </div>
 </a>
-<!DOCTYPE html>
+
 <html>
 <head>
 	<meta charset=utf-8 />
