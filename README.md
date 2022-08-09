@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Olá, eu sou a Safira 👋
 - 😄 Pronomes: ela/dela
 - 🤩 Em constante desenvolvimento 
-- 💻 Analista desenvolvedora júnior 
+- 💻 Analista júnior de sistemas
 </a>
 
 <!-- LINE -->
